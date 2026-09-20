@@ -190,7 +190,7 @@ You can also use an IDE such as:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SudokuMaster.git
+git clone https://github.com/Samruddhi335/SudokuMaster.git
 ```
 
 ### 2. Enter the project directory
@@ -392,7 +392,7 @@ Some possible improvements for future versions include:
 
 **Your Name**
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/Samruddhi335`
 
 ---
 
